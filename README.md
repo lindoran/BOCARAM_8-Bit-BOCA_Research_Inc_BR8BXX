@@ -8,6 +8,18 @@ The box reverse has a sticker placed over text that clearly says **BOCARAM‑XT*
 
 Documentation suggests that the board supports up to **2 MB** of memory on an XT‑class machine — twice the RAM the 8088 can address directly, and far more than DOS can access without banking in 16‑bit real mode (640 KB). It also claims the card works in a 286‑class machine, despite being an 8‑bit card. Examining the latch and selection logic, it uses F‑series logic, suggesting the designers accounted for the higher bus timing of AT‑class machines. The addressing and data path are still multiplexed on a 16‑bit machine, but the card itself is strictly 8‑bit.
 
+### Carton / Disk Graphics ###
+
+This cartion is desinged for all models of the BOCARAM 8-Bit.  It originally shipped without ram chips but looks like you could purchase it as 256k, 1Meg, and 2Meg as well.  These models were BR8B03, BR8B10, and BR8B20.  As to why they rounded up for the 256? who knows, but that seems like a solid marketing decision.  Three stickers of note on the carton itself one on the front stating 1 million installed, but no context as to if this was just this model or if it was cards totaled.  A 5 year warentee is spelled out on one of the sides of the carton (not pictured).  That warentee seems like it might be a seriously risky proposition in hind sight.  Two stickers on the back of the box cover over other models, the sticker for the 8-Bit covering over BOCARAM XT, Its possible this is a completely separate product or the name was changed for Trademark reasons.  The other Sticker is the BOCARAM MCA 32, this covers the BOCARAM/30.  Very possible again it covers over that because of trademark - or its a revison, its hard to say.
+
+- **3.5-720k-BOCARAM-Floppy.jpg** — Floppy disk 720k disk
+- **5.25-360k-BOCARAM-Floppy.jpg** — Floppy disk 360k disk
+- **BOCARAM-MCA_32_Sticker.jpg** — Sticker MCA 32 (See notes above)
+- **BOCARAM-8-Bit_Sticker.jpg** — Sticker 8-Bit (See notes above)
+- **BOCARAM-8-Bit_Box_Back.jpg** — Carton Back
+- **BOCARAM-8-Bit_Box_Front.jpg** — Carton Front
+- **BOCARAM-8-Bit_Box_Side.jpg** — Side Shows the enclosed model.
+
 ### Disk Images (IMD Format)
 
 IMD is David Dunfield’s disk‑image format for preservation. Filenames use 8.3 format to facilitate working with 16‑bit DOS when creating exact copies of the media.
