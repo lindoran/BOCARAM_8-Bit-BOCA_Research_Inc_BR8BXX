@@ -33,7 +33,7 @@ Converted to raw binary block images for modern emulation and file extraction.
 
  Official manual covering the BR8B00, BR803, BR810, and BR820 boards, including installation, memory mapping, configuration jumpers, and diagnostic utilities.
 
-- **BOCARAM_8‑Bit_Manual‑BOCA_Research_Inc_BR8B00_BR803_BR810_BR820.pdf**
+- **BOCARAM_8‑Bit_Manual‑BOCA_Research_Inc_BR8B00_BR8B03_BR8B10_BR8B20.pdf**
 
 
 
