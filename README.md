@@ -6,7 +6,7 @@ Here is a fully spell-checked, clarity-tuned version of your text. I preserved y
 
 ## BOCARAM 8-Bit Disk Image Set
 
-This directory contains a curated collection of disk images, IMD captures, and reference materials for the BOCA Research *BOCARAM 8-Bit* expansion boards. These files support archival work, emulator reconstruction, and hardware restoration. `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]` contains the contents of the disks (identical across all media) in extracted form.
+This directory contains a curated collection of disk images, IMD captures, and reference materials for the BOCA Research *BOCARAM 8-Bit* expansion boards. These files support archival work, emulator reconstruction, and hardware restoration. [`./Files`](./Files) contains the contents of the disks (identical across all media) in extracted form.
 
 This card may have an earlier revision called **BOCARAM-XT**. I do not know whether it is the same card or a newer revision. The card photos posted around the retro-computing web seem to suggest the former. I would assume the driver files work with both cards.
 
